@@ -81,7 +81,7 @@
     		<span class="icon_right"><img src="<?php print path_to_theme(); ?>/images/icons/icon_favorite_orange.gif" width="72" height="72" alt="Wedding Albums" /></span>
     <h3><span>Wedding Albums</span> Personalize</h3>
           <div class="clear"></div>
-          <p>Create stunning wedding albums with videography, layout, and narrative features to make your clients' album one-of-a-kind.</p>
+          <p>Add video, layout, and narrative features to make the album one-of-a-kind.</p>
     </div>
 
     <div class="col col_1_3 box_textstyle-1">
