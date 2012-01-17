@@ -48,7 +48,7 @@
                	    <li>Unique service for your studio</li>
                	  </ul>
                 </div>
-                <a href="#" class="button_link btn_green"><span>GET STARTED!</span></a>
+                <a href="/signup" class="button_link btn_green"><span>GET STARTED!</span></a>
                 <div class="clear"></div>
               </div>
             <div class="clear"></div>
