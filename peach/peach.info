@@ -1,0 +1,54 @@
+screenshot  = screenshot.png
+name        = Peach Theme
+description = Adaptation of MobilityApp from http://themefuse.com/
+core        = 7.x
+base theme  = zen
+
+stylesheets[all][] = style.css
+stylesheets[all][] = styles/orange.css
+stylesheets[all][] = custom.css
+
+scripts[] = js/general.js
+scripts[] = js/jquery.tools.min.js
+scripts[] = js/jquery.easing.1.3.js
+scripts[] = js/slides.jquery.js
+
+regions[head_bar]       = Head Bar
+regions[header_thin]    = Header Thin
+regions[help]           = Help
+regions[middle_top]     = Middle Top
+regions[content]        = Content
+regions[middle_bottom]  = Middle Bottom
+regions[bottom1_left]   = Bottom 1 Left
+regions[bottom1_right]  = Bottom 1 Right
+regions[bottom2_left]   = Bottom 2 Left
+regions[bottom2_right]  = Bottom 2 Right
+regions[footer_top]     = Footer Top
+regions[footer_middle]  = Footer Middle
+regions[page_top]       = Page Top
+regions[page_bottom]    = Page Bottom
+
+features[] = logo
+features[] = name
+features[] = slogan
+features[] = node_user_picture
+features[] = comment_user_picture
+features[] = favicon
+features[] = main_menu
+features[] = secondary_menu
+
+; Set the default values of settings on the theme-settings.php form.
+
+settings[zen_breadcrumb]           = yes
+settings[zen_breadcrumb_separator] = ' › '
+settings[zen_breadcrumb_home]      = 1
+settings[zen_breadcrumb_trailing]  = 1
+settings[zen_breadcrumb_title]     = 0
+settings[zen_jump_link_target]     = main-menu
+settings[zen_rebuild_registry]     = 1
+settings[zen_wireframes]           = 0
+
+; To make this sub-theme an admin theme with shortcut links next to titles,
+; uncomment the line below.
+
+;settings[shortcut_module_link]    = 1

@@ -1,0 +1,31 @@
+/*
+CUSTOM STYLESHEET
+---------------------
+
+Instructions:
+
+Add your custom styles here instead of style.css so it
+is easier to update the theme. Simply copy an existing
+style from style.css to this file, and modify it to
+your liking.
+
+*/
+
+sup {
+  color: white;
+  vertical-align: super;
+  font-size: small;
+}
+
+.slide ul {
+  list-style-type: none;
+}
+
+.slide .btn_green {
+  opacity: 1;
+  margin-top: 35px;
+}
+
+.slide .btn_green span {
+  font-size: 20px;
+}
