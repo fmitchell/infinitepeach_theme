@@ -79,21 +79,21 @@
 
     <div class="col col_1_3 box_textstyle-1">
     		<span class="icon_right"><img src="<?php print path_to_theme(); ?>/images/icons/icon_favorite_orange.gif" width="72" height="72" alt="Wedding Albums" /></span>
-    <h3><span>Wedding Albums</span> Personalized for each couple</h3>
+    <h3><span>Wedding Albums</span> Personalize</h3>
           <div class="clear"></div>
-          <p>Create stunning wedding albums with embedded videography, custom layouts, and additional narratives to make your clients' album one-of-a-kind.</p>
+          <p>Create stunning wedding albums with videography, layout, and narrative features to make your clients' album one-of-a-kind.</p>
     </div>
 
     <div class="col col_1_3 box_textstyle-1">
       	<span class="icon_right"><img src="<?php print path_to_theme(); ?>/images/icons/icon_photo_orange.gif" width="72" height="72" alt="" /></span>
-      	  	<h3><span>Proof Book</span> Distribute shots quickly while protecting your photos</h3>
+      	  	<h3><span>Proof Book</span> Distribute quickly</h3>
           <div class="clear"></div>
           <p>Forget watermarks. Since the photos are part of the native application, they stay inside the book!</p>
     </div>
 
       <div class="col col_1_3 box_textstyle-1">
       	<span class="icon_right"><img src="<?php print path_to_theme(); ?>/images/icons/icon_iniani_orange.gif" width="72" height="72" alt="" /></span>
-      	<h3><span>Business Portfolio</span> Impress clients and gain karma</h3>
+      	<h3><span>Studio Portfolio</span> Impress clients</h3>
           <div class="clear"></div>
           <p>Show off your photography to potential clients easily with a custom portfolio you can submit to the app store!</p>
     </div>
