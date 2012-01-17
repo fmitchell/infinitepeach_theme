@@ -78,24 +78,24 @@
   <div class="text">
 
     <div class="col col_1_3 box_textstyle-1">
-      	<span class="icon_right"><img src="<?php print path_to_theme(); ?>/images/icons/icon_photo_orange.gif" width="72" height="72" alt="" /></span>
-      	  	<h3><span>Photo Editing</span> Use a multitude of filters</h3>
+    		<span class="icon_right"><img src="<?php print path_to_theme(); ?>/images/icons/icon_favorite_orange.gif" width="72" height="72" alt="Wedding Albums" /></span>
+    <h3><span>Wedding Albums</span> Personalized for each couple</h3>
           <div class="clear"></div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+          <p>Create stunning wedding albums with embedded videography, custom layouts, and additional narratives to make your clients' album one-of-a-kind.</p>
+    </div>
+
+    <div class="col col_1_3 box_textstyle-1">
+      	<span class="icon_right"><img src="<?php print path_to_theme(); ?>/images/icons/icon_photo_orange.gif" width="72" height="72" alt="" /></span>
+      	  	<h3><span>Proof Book</span> Distribute shots quickly while protecting your photos</h3>
+          <div class="clear"></div>
+          <p>Forget watermarks. Since the photos are part of the native application, they stay inside the book!</p>
     </div>
 
       <div class="col col_1_3 box_textstyle-1">
       	<span class="icon_right"><img src="<?php print path_to_theme(); ?>/images/icons/icon_iniani_orange.gif" width="72" height="72" alt="" /></span>
-      	<h3><span>SSL Secured</span> 256 bit file encryption</h3>
+      	<h3><span>Business Portfolio</span> Impress clients and gain karma</h3>
           <div class="clear"></div>
-          <p>Sed ut perspiciatis unde omnis iresste natus error sit voluptatem accusantium doloremque laudantium, totam reium aperiam, eaque ipsa quaerites.</p>
-    </div>
-
-    <div class="col col_1_3 box_textstyle-1">
-    		<span class="icon_right"><img src="<?php print path_to_theme(); ?>/images/icons/icon_favorite_orange.gif" width="72" height="72" alt="" /></span>
-    <h3><span>Save Favorites</span> Keep your bookmarks</h3>
-          <div class="clear"></div>
-          <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.</p>
+          <p>Show off your photography to potential clients easily with a custom portfolio you can submit to the app store!</p>
     </div>
 
 	</div><!-- /text -->
